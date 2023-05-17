@@ -1796,7 +1796,7 @@
   dependencies:
     graceful-fs "^4.2.8"
 
-"@react-native-windows/package-utils@0.71.2":
+"@react-native-windows/package-utils@0.71.2", "@react-native-windows/package-utils@^0.71.2":
   version "0.71.2"
   resolved "https://registry.yarnpkg.com/@react-native-windows/package-utils/-/package-utils-0.71.2.tgz#fad0228948705afe526c431b3b477d71801decda"
   integrity sha512-dk5hF1JN9H5nyaez34a954dnkOXKAXoLSBTdpvlaNCFK9vyrLTSpkSwjY4CEtjQBxTbsdpxUdxGxjiY/516Fkw==
